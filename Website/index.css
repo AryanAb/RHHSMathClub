@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-nav > li > a {
+    padding-top:22px !important; 
+    padding-bottom:22px !important; 
+    font-size: 22px !important;
+}
+.navbar {
+    min-height:32px !important
+}
+
+.nav-item > button {
+    color: darkgray;
+    padding-top: 22px !important; 
+    padding-bottom: 22px !important;
+    font-size: 22px !important;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.nav-item > button:hover {
+    color: rgb(223, 222, 222);
+}
